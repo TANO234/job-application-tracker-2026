@@ -1,0 +1,51 @@
+company,role,date,source,status
+EY,Junior BA,2026-01-10,Company Site,Interview
+Monzo,Data Analyst,2026-01-11,Company Site,No Response
+IBM,Junior BA,2026-01-14,Glassdoor,No Response
+EY,Operations Analyst,2026-01-22,LinkedIn,No Response
+BDO,Data Analyst,2026-01-23,Indeed,No Response
+EY,Junior BA,2026-01-24,LinkedIn,No Response
+HSBC,Systems Analyst,2026-01-28,Glassdoor,Rejected
+Thoughtworks,Junior BA,2026-02-01,Indeed,No Response
+JP Morgan,Data Analyst,2026-02-01,LinkedIn,No Response
+Barclays,Junior BA,2026-02-03,Indeed,No Response
+EY,Data Analyst,2026-02-04,Referral,Interview
+EY,Data Analyst,2026-02-06,Referral,No Response
+Aviva,Junior BA,2026-02-07,Glassdoor,Rejected
+McKinsey,Operations Analyst,2026-02-11,Company Site,No Response
+Sage,Junior BA,2026-02-13,Glassdoor,Rejected
+Monzo,Systems Analyst,2026-02-13,Referral,No Response
+Monzo,Operations Analyst,2026-02-19,Company Site,Interview
+Aviva,BA Consultant,2026-02-28,Glassdoor,Interview
+IBM,Data Analyst,2026-03-02,Indeed,No Response
+Sage,BA Consultant,2026-03-04,Referral,Rejected
+McKinsey,Junior BA,2026-03-08,Referral,Interview
+Monzo,BA Consultant,2026-03-08,Glassdoor,No Response
+Natwest,BA Consultant,2026-03-09,Glassdoor,Interview
+Deloitte,BA Consultant,2026-03-10,Glassdoor,No Response
+Nationwide,Junior BA,2026-03-13,LinkedIn,Offer
+McKinsey,Data Analyst,2026-03-20,Glassdoor,No Response
+McKinsey,Systems Analyst,2026-03-23,Company Site,No Response
+Experian,Data Analyst,2026-03-24,Referral,Rejected
+Goldman Sachs,Junior BA,2026-03-26,Company Site,No Response
+Accenture,Data Analyst,2026-03-26,Indeed,Offer
+IBM,Operations Analyst,2026-03-29,Company Site,Rejected
+Deloitte,Data Analyst,2026-03-30,Referral,No Response
+Natwest,Operations Analyst,2026-03-30,Referral,No Response
+KPMG,Junior BA,2026-04-05,Glassdoor,Interview
+Aviva,Systems Analyst,2026-04-05,LinkedIn,Rejected
+Thoughtworks,Business Analyst,2026-04-15,LinkedIn,Rejected
+Monzo,Systems Analyst,2026-04-20,LinkedIn,Rejected
+Capgemini,Systems Analyst,2026-04-20,Indeed,Interview
+Natwest,Data Analyst,2026-04-25,Glassdoor,No Response
+Nationwide,Operations Analyst,2026-04-29,Indeed,Interview
+PwC,BA Consultant,2026-05-01,Glassdoor,No Response
+McKinsey,BA Consultant,2026-05-01,Indeed,Interview
+Natwest,Systems Analyst,2026-05-02,Referral,Interview
+Barclays,Data Analyst,2026-05-03,LinkedIn,Interview
+Monzo,Operations Analyst,2026-05-03,Company Site,Interview
+Accenture,Systems Analyst,2026-05-04,Company Site,No Response
+Monzo,Business Analyst,2026-05-10,Glassdoor,Rejected
+Lloyds,Systems Analyst,2026-05-11,Glassdoor,No Response
+Sage,Business Analyst,2026-05-14,Glassdoor,No Response
+Aon,BA Consultant,2026-05-20,Glassdoor,Interview
